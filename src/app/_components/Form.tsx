@@ -10,14 +10,14 @@ export default function Form() {
             Calculate your Dahej
           </h2>
           <p className="mt-1 text-sm leading-6 text-gray-600">
-            We&apos;ll always let you know about important changes, but you pick
-            what else you want to hear about.
+            We&apos;ll calculate your Dahej based on your details, remember to
+            enter the correct details to get the correct result.
           </p>
 
           <div className="mt-10 space-y-10">
             <fieldset>
               <legend className="text-sm font-semibold leading-6 text-gray-900">
-                Proffession
+                Profession
               </legend>
               <p className="mt-1 text-sm leading-6 text-gray-600">
                 Well sought after proffessions get more from the groom&apos;s
@@ -62,7 +62,7 @@ export default function Form() {
                     htmlFor="push-nothing"
                     className="block text-sm font-medium leading-6 text-gray-900"
                   >
-                    Buisnessman
+                    Businessman
                   </label>
                 </div>
               </div>
