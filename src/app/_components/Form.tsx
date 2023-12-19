@@ -20,7 +20,8 @@ export default function Form() {
                 Profession
               </legend>
               <p className="mt-1 text-sm leading-6 text-gray-600">
-                Well sought after proffessions get more from the groom&apos;s
+                Well sought after proffessions are more likely to get a higher
+                ???
               </p>
               <div className="mt-6 space-y-6">
                 <div className="flex items-center gap-x-3">
